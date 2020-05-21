@@ -1,5 +1,4 @@
 
-
 #Coding simple neuron
 # A simply neuron is consist of some inputs multiplied by weights and an added bias
 #Every input has a different attached to it
